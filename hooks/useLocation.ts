@@ -38,7 +38,7 @@ export function useLocation() {
           });
           setIsLoading(false);
         }
-      } catch (err) {
+      } catch {
         if (isMounted) {
           setError('Failed to get current location');
           setIsLoading(false);
