@@ -8,8 +8,8 @@ Project-specific instructions for this Expo React Native application.
 
 | Layer      | Technology                                                  |
 |------------|-------------------------------------------------------------|
-| Framework  | Expo SDK 53+ (Managed Workflow)                             |
-| Navigation | Expo Router 4.x                                             |
+| Framework  | Expo SDK 54 (Managed Workflow)                              |
+| Navigation | Expo Router 6.x                                             |
 | State      | Zustand 5.x                                                 |
 | Maps       | react-native-maps 1.20.x (not expo-maps - requires iOS 17+) |
 | Backend    | Supabase                                                    |
